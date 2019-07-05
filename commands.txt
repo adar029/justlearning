@@ -5,3 +5,7 @@ git status
 git commit -m 'comments'
 git branch 'branh name'
 git checkout 'branch name' // to change branch
+git merge 'branch name' //merge ther branches
+git remote
+git remote add origin https://github.com/adar029/justlearning.git
+git push -u origin master // to push
